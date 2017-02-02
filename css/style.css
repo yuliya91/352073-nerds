@@ -1,0 +1,269 @@
+
+
+.main-header {
+	min-height: 91px;
+	background-color: #eeeeee;
+}
+
+.main-title{
+min-height: 265px;
+	background-color: #eeeeee;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.container {
+	width: 1160px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.container-main  {
+	width: 1160px;
+		padding: 0 20px;
+	
+
+}
+
+.features{
+	background-color: #eeeeee;
+	margin-bottom: 83px;
+}
+
+.index-logo {
+	float: left;
+	width: 200px;
+
+	min-height: 91px;
+}
+
+.main-navigation {
+	width: 600px;
+	float: left;
+	min-height: 91px;
+}
+
+.user-block {
+	float: right;
+	width: 200px;
+
+	/* Только для оформления сетки */
+	min-height: 91px;
+}
+
+.clearfix::after {
+	content: "";
+
+	display: table;
+	clear: both;
+}
+.item-illustration {
+  float: left;
+  width: 300px;
+  margin-right: 100px;
+  margin-bottom: 82px;
+    min-height: 345px;
+}
+
+.item-illustration3
+{
+	
+  float: left;
+  width: 300px;
+  margin-bottom: 82px;
+  min-height: 345px;
+
+}
+
+.index-content {
+  
+  padding: 60px 0px;
+}
+
+.index-content-left {
+  float: left;
+  width: 700px;
+  
+  /* Только для оформления сетки */
+  min-height: 440px;
+}
+
+.index-content-right {
+  float: right;
+  width: 400px;
+
+  /* Только для оформления сетки */
+  min-height: 440px;
+}
+
+.project {
+
+	width: 1160;
+	min-height: 183;
+	padding: 0 20px;
+}
+.project-html {
+
+float: left;
+  width: 239px;
+  margin-right: 40px;
+      min-height: 96px;
+}
+
+.project-borodinski {
+
+float: left;
+  width: 231px;
+  margin-right: 40px;
+      min-height: 105px;
+}
+.project-pink {
+
+float: left;
+  width: 260px;
+  margin-right: 40px;
+      min-height: 109px;
+}
+.project-mishka {
+
+float: left;
+  width: 260px;
+        min-height: 109px;
+        margin-bottom: 82px;
+}
+
+
+.map {
+
+	min-height: 416px;
+	width: auto;
+}
+
+.footer-social {
+float: left;
+	width: 300px;
+	margin: 82px 0;
+	padding: 0 20px;
+	
+}
+
+.footer-discount {
+float: right;
+	width: 760px;
+	margin-top: 70px;
+
+}
+
+.btn1 {
+	width: 160px;
+	height: 50px;
+	background-color: #fb565a;
+	
+}
+
+.btn2 {
+	width: 160px;
+	height: 50px;
+	background-color: #00ca74;
+	
+}
+
+.btn3 {
+	width: 160px;
+	height: 50px;
+	background-color: #efc84a;
+	
+}
+
+.social-btn {
+
+	display: inline-block;
+    width: 80px;
+    height: 80px;
+    margin-right: 13px;
+    border-radius: 50px;
+    background-color: #e1e1e1;
+}
+
+.shop {
+	float: left;
+    width: 260px;
+    padding-left: 20px;
+}
+
+.catalog {
+	    float: right;
+    width: 760px;
+    padding-right: 20px;
+}
+
+.article-sedona {
+    margin: 0;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding: 0;
+    width: 360px;
+    min-height: 617px;
+    float: left;
+}
+
+.article-pink {
+    margin: 0;
+    margin-bottom: 40px;
+    padding: 0;
+    width: 360px;
+    min-height: 617px;
+    
+    float: left;
+}
+
+.article-borodinski {
+    margin: 0;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding: 0;
+    width: 360px;
+    min-height: 617px;
+    
+    float: left;
+}
+
+.article-mishka {
+    margin: 0;
+    margin-bottom: 40px;
+    padding: 0;
+    width: 360px;
+    min-height: 617px;
+    
+    float: left;
+}
+
+.article-a-plus {
+    margin: 0;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding: 0;
+    width: 360px;
+    min-height: 617px;
+    
+    float: left;
+}
+
+.article-kvast {
+    margin: 0;
+    margin-bottom: 40px;
+    padding: 0;
+    width: 360px;
+    min-height: 617px;
+    
+    
+}
+
+.sort ul {
+
+	 display: block;
+        margin: 0;
+    padding: 0;
+    margin-bottom: 60px;
+   
+    }
